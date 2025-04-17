@@ -28,6 +28,6 @@ Castlevania - Circle of the Moon:
   disable_battle_arena_mp_drain: 'false'
   skip_dialogues: 'false'
   skip_tutorials: 'false'
-  battle_arena_music: nothing
+  battle_arena_music: vampire_killer
   start_inventory: {}
   start_inventory_from_pool: {}
