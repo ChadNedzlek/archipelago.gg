@@ -47,8 +47,8 @@ Pokemon Emerald:
   misc_pokemon: completely_random
   types: vanilla
   abilities: vanilla
-  level_up_moves: vanilla
-  move_match_type_bias: '0'
+  level_up_moves: randomized
+  move_match_type_bias: '50'
   move_normal_type_bias: '0'
   tm_tutor_compatibility: '-1'
   hm_compatibility: '-1'
