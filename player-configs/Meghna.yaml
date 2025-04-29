@@ -16,6 +16,10 @@ Stardew Valley:
   building_progression: progressive_cheap
   festival_locations: easy
   arcade_machine_locations: disabled
+  exclude_locations:
+  - Arcade Machine
+  - Arcade Machine Victory
+  - Junimo Kart
   special_order_locations: board_short
   quest_locations: '7'
   fishsanity: none
